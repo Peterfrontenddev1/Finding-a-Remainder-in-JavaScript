@@ -13,3 +13,4 @@ Math.floor(5 / 2) = 2 (Quotient)
 5 - 4 = 1 (Remainder)
 
 Usage
+In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2.
