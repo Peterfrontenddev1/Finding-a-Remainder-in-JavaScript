@@ -31,4 +31,5 @@ Note: The remainder operator is sometimes incorrectly referred to as the modulus
                                          The value of remainder should be 2
                                           
                                           You should use the % operator
-                                          const remainder = 0;
+                                         
+                                         const remainder = 0;
