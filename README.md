@@ -21,7 +21,9 @@ In mathematics, a number can be checked to be even or odd by checking the remain
 
 Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
 
-Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
+
+                                          QUESTION
+                                          Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
 The variable remainder should be initialized
 The value of remainder should be 2
 You should use the % operator
