@@ -36,4 +36,4 @@ Note: The remainder operator is sometimes incorrectly referred to as the modulus
                                          
                                          ANSWER
                                          
-                                        const remainder = 11 % 3;
+                                         const remainder = 11 % 3;
